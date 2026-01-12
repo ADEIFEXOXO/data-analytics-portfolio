@@ -20,7 +20,7 @@ My experience spans academic research, public health data analysis, and statisti
 - **Statistical Analysis:** Regression, survival analysis, hypothesis testing
 - **Mathematics:** Probability theory, linear algebra, applied modeling
 - **Programming:** R, Python
-- **Tools:** Excel (dashboards), SPSS
+- **Tools:** Excel (dashboards), PowerBI SPSS
 - **Data Tasks:** Cleaning, validation, visualization, reporting
 
 ---
